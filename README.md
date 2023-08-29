@@ -72,3 +72,18 @@
 <!<img height = "180" width = "500" src="http://github-readme-streak-stats.herokuapp.com?user=RohanDoshi21&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" alt="rohandoshi21" />
 </div>
 </p>
+<b>Connect with Me</b>
+
+<p>
+    <a href="https://www.linkedin.com/in/vedantaher031/" target="blank"><img align="center"
+            src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
+            width="40" /></a>
+    <a href="https://www.hackerrank.com/vedantaher031" target="blank"><img align="center"
+            src="https://cdn.iconscout.com/icon/free/png-64/hackerrank-3521478-2944922.png" alt="facebook" height="40"
+            width="40" /></a>
+    <a href="https://www.instagram.com/aherpatilvedant/" target="blank"><img align="center"
+            src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
+            width="40" /></a>
+</p>
+
+
