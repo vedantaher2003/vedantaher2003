@@ -74,6 +74,14 @@
 </p>
 <b>Connect with Me</b>
 
+
+
+
+
+
+
+
+
 <p>
     <a href="https://www.linkedin.com/in/vedantaher031/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
@@ -85,5 +93,11 @@
             src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
             width="40" /></a>
 </p>
+
+
+![snake gif](https://github.com/AdityaMore7000/AdityaMore7000/blob/output/github-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/AdityaMore7000/AdityaMore7000/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+
+
 
 
