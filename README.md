@@ -97,7 +97,7 @@
     <a href="https://www.codechef.com/users/vedantaher_31/" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adimore7000" height="30" width="40" /></a>
    <a href="https://leetcode.com/vedantaher031/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adimore_7000" height="30" width="40" /></a>
-   <a href="https://twitter.com/sanikaa_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanikaa_21" height="30" width="40" /></a>
+   <a href="https://twitter.com/VedantAherPatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanikaa_21" height="30" width="40" /></a>
 </p>
 
 
